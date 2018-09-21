@@ -1,7 +1,7 @@
 var cosas =['2','','>:v PARA ESO ESTA SORT', '5', '1'];
 
 function ordernar(){
-    var cosas =['2','7','>:v PARA ESO ESTA SORT', '5', '1'];
+    var cosas =['2','7','8', '5', '1'];
     var key;
     var j;
     for(var x=1; x<cosas.length;x++){
